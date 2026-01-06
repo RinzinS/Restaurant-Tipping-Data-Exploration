@@ -1,4 +1,4 @@
-# Restaurent Tipping Behavior in Restaurants: A Data-Driven Exploration
+# Restaurant Tipping Behavior in Restaurants: A Data-Driven Exploration
 
 ##  Project Summary
 This project analyzes **restaurant tipping behavior** using the classic `tips.csv` dataset.  
